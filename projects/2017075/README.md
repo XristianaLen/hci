@@ -3,29 +3,29 @@
 ### Ονοματεπώνυμο: Χριστιάνα Λένγκου
 ### Αριθμός Μητρώου: Π2017075
 
-**Σύνδεσμος ιστότοπου https://XristianLen.github.io/gr/**
+**Σύνδεσμος ιστότοπου https://XristianaLen.github.io/gr/**
 
-**Σύνδεσμος αποθετηρίου https://github.com/XristianLen/gr**
+**Σύνδεσμος αποθετηρίου https://github.com/XristianaLen/gr**
 
 
 ## Σύνδεσμοι εικόνων
 
-* CPU Cooler
+* MINECRAFT
 
-  * https://XristianLen.github.io/gr/gallery/cpu-cooler/
+  * https://XristianaLen.github.io/gr/gallery/MINECRAFT/
 
-* MSI Motherboard
+* Linux
 
-  * https://XristianLen.github.io/gr/gallery/msi-motherboard/
+  * https://XristianaLen.github.io/gr/gallery/Linux/
 
-* Intel CPU
+* Messenger
 
-  * https://XristianLen.github.io/gr/gallery/intel-cpu/
+  * https://XristianaLen.github.io/gr/gallery/Messenger/
 
-* RAM Install
+* Dynabook
 
-  * https://XristianLen.github.io/gr/gallery/ram-install/
+  * https://XristianaLen.github.io/gr/gallery/Dynabook/
 
 * UBER
 
-  * https://XristianLen.github.io/gr/gallery/UBER/
+  * https://XristianaLen.github.io/gr/gallery/UBER/
